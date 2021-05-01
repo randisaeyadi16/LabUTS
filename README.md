@@ -6,7 +6,7 @@
 - Dosen Pengampu : Agung Nugroho, S.Kom., M.Kom.
 - Prodi/Semester : Teknik Informatika / IV (Empat)
 
-#TUGAS
+# TUGAS
 1. Membuat dan melakukan conversi pada Morckup design web di HTML
    ![Langkah 1](https://user-images.githubusercontent.com/59683573/116770957-c9e22700-aa71-11eb-9465-256cd4410ca8.png)
 
